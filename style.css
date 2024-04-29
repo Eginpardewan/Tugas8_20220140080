@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://4.bp.blogspot.com/-2MuhUfCu1lo/XGWI3OwYCYI/AAAAAAAAA58/YIdPunQghQ4-Fte6wHnkWWDrkKfJTyGKwCLcBGAs/s1600/background%2BPPT%2Bkeren%2B3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#imageContainer img {
+    width: 300px; /* Adjust the width as needed */
+    height: auto;
+}
